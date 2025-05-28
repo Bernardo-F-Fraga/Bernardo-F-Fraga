@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Bernardo F. Fraga, I'm a Computer Engineering student who loves to understand how tecnologie works and how it can be helpfull in day by day.
+My name is Bernardo F. Fraga, I'm a Computer Engineering student who loves to learn about tecnologie and how it can be use in day by day.
 
 💻 Projects in development:
 
