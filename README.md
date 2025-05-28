@@ -3,7 +3,7 @@ My name is Bernardo F. Fraga, I'm a Computer Engineering student who loves to le
 
 💻 Projects in development:
 
--Deserializer in Verilog / SystemVerilog
+- Deserializer in Verilog / SystemVerilog
 
 ###📖 Currently Learning
 -Assembly (MIPS)
