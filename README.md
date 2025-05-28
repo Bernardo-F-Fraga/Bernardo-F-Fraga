@@ -10,12 +10,11 @@ My name is Bernardo F. Fraga, I'm a Computer Engineering student who loves to le
 -Verilog / SystemVerilog (FPGA design)
 
 ### 📫 Contact me:
-
 - 📧[Email](mailto:bfoquesdefraga@gmail.com)  
 
 ### 🗺 Languages:
 
 - 🇧🇷 Native: Portuguese
 
-- 🇺🇸 English
+- 🇺🇸 Fluent: English
 
