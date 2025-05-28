@@ -1,16 +1,20 @@
 ## Hi there 👋
+My name is Bernardo F. Fraga, I'm a Computer Engineering student who loves to understand how tecnologie works and how it can be helpfull in day by day.
 
-<!--
-**Bernardo-F-Fraga/Bernardo-F-Fraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Projects in development:
 
-Here are some ideas to get you started:
+Deserializer in Verilog / SystemVerilog
+📖 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Assembly (MIPS)
+Verilog / SystemVerilog (FPGA design)
+📫 Contact me
+
+📧 Email
+
+🗺 Languages
+
+🇧🇷 Native: Portuguese
+
+🇺🇸 English
+
