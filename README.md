@@ -5,17 +5,17 @@ My name is Bernardo F. Fraga, I'm a Computer Engineering student who loves to le
 
 - Deserializer in Verilog / SystemVerilog
 
-###📖 Currently Learning
+### 📖 Currently Learning
 -Assembly (MIPS)
 -Verilog / SystemVerilog (FPGA design)
 
-###📫 Contact me:
+### 📫 Contact me:
 
--📧[Email](mailto:bfoquesdefraga@gmail.com)  
+- 📧[Email](mailto:bfoquesdefraga@gmail.com)  
 
-###🗺 Languages
+### 🗺 Languages
 
--🇧🇷 Native: Portuguese
+- 🇧🇷 Native: Portuguese
 
--🇺🇸 English
+- 🇺🇸 English
 
